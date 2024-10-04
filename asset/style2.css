@@ -1522,7 +1522,7 @@
 }
     /* Sidebar styles */
  
-    .sidebar.show-sidebar {
+    .sidebar.show-sidebar { display:block
         left: 0;
         opacity: 1; /* Make visible when shown */
     }
