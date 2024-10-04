@@ -1,14 +1,2 @@
-Mahfuz Rahman's Portfolio
-Welcome to my personal web development portfolio! 🚀<br> This is a showcase of my skills, projects, and expertise in web development using HTML, CSS, and JavaScript.<br> The site is fully responsive and includes animations, interactive elements, and clean design.
-
-Features
-Responsive Design: Optimized for all devices, including mobile, tablet, and desktop.<br>
-Smooth Animations: Enhanced UI experience using modern CSS animations.<br>
-Interactive Elements: Includes interactive elements powered by JavaScript.<br>
-Clean and Modern UI: Simple yet professional design to showcase my skills.<br>
-Social Media Integration: Links to my LinkedIn, GitHub, and more.
-Technologies Used
-HTML5: For creating the structure of the web pages.<br>
-CSS3: For designing and adding custom styles to the website.<br>
-JavaScript: To add interactivity and dynamic behavior to the website.<br>
-Font Awesome: For icons used in the site.
+<h1 align="center">Mahfuz Rahman's Portfolio</h1>
+<p align="center"> 🚀 Welcome to my personal web development portfolio! <br> This is a showcase of my skills, projects, and expertise in web development using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>. <br> The site is fully responsive, including animations, interactive elements, and a clean design. </p> <hr> <h2>⚙️ Features</h2> <ul> <li><strong>Responsive Design:</strong> Optimized for all devices, including mobile, tablet, and desktop.</li> <li><strong>Smooth Animations:</strong> Enhanced UI experience using modern CSS animations.</li> <li><strong>Interactive Elements:</strong> Includes interactive elements powered by JavaScript.</li> <li><strong>Clean and Modern UI:</strong> Simple yet professional design to showcase my skills.</li> <li><strong>Social Media Integration:</strong> Links to my LinkedIn, GitHub, and more.</li> </ul> <h2>🛠️ Technologies Used</h2> <ul> <li><strong>HTML5:</strong> For creating the structure of the web pages.</li> <li><strong>CSS3:</strong> For designing and adding custom styles to the website.</li> <li><strong>JavaScript:</strong> To add interactivity and dynamic behavior to the website.</li> <li><strong>Font Awesome:</strong> For icons used in the site.</li> </ul> <hr> <p align="center"> <img src="https://dev-mahfuz.github.io/my-portfolio/asset/logo.png" alt="Mahfuz Rahman Logo" width="200" height="200"> </p> <h2>📲 Get in Touch</h2> <p align="center"> <a href="https://www.linkedin.com/in/mahfuzrahman" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Mahfuz%20Rahman-blue?style=flat-square&logo=linkedin" alt="Mahfuz Rahman LinkedIn"> </a> <a href="https://github.com/dev-Mahfuz" target="_blank"> <img src="https://img.shields.io/badge/GitHub-dev--Mahfuz-lightgrey?style=flat-square&logo=github" alt="Mahfuz Rahman GitHub"> </a> <a href="mailto:mahfuz.ndc.ruet.ipe@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-Mahfuz-blue?style=flat-square&logo=gmail" alt="Mahfuz Rahman Email"> </a> </p>
