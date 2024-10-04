@@ -1522,7 +1522,7 @@
 }
     /* Sidebar styles */
  
-    .sidebar.show-sidebar { display:block
+    .sidebar.show-sidebar { display:block !important;
         left: 0;
         opacity: 1; /* Make visible when shown */
     }
@@ -1563,7 +1563,7 @@
     }
 
     /* Show sidebar */
-    .show-sidebar {
+    .show-sidebar {display:block !important;
         left: 0;
         opacity: 1;
     }
