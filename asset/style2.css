@@ -1,10 +1,9 @@
          .sidebar {
-            idth: 250px;
+            width: 250px;
     height: 100%;
     position: fixed;
     top: 0;
     left: -250px;
-    /* background-color: #333; */
     padding-top: 60px;
     transition: all 0.3s ease;
     z-index: 1000;
@@ -1522,21 +1521,7 @@
     border-bottom: 1px solid var(--static7);
 }
     /* Sidebar styles */
-    .sidebar {
-        width: 250px;
-        height: 100%;
-        position: fixed;
-        top: 0;
-        left: -250px; /* Start off the screen */
-        background-color: #333;
-        padding-top: 60px;
-        transition: all 0.3s ease;
-        z-index: 1000;
-        display: flex;
-        flex-direction: column;
-        opacity: 0; /* Start hidden */
-    }
-
+ 
     .sidebar.show-sidebar {
         left: 0;
         opacity: 1; /* Make visible when shown */
